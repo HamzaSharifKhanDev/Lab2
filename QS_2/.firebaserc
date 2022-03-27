@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "lab-2-a1204"
+  },
+  "targets": {
+    "lab-2-a1204": {
+      "hosting": {
+        "QS2": [
+          "flutterqs3"
+        ]
+      }
+    }
+  }
+}
